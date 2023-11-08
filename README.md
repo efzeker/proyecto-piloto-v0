@@ -25,7 +25,7 @@ Pero quiero participar en GitHub Universe 2023, y creo casi indispensable, tener
 [ https://kjream.wordpress.com/2023/11/07/pokedex/ ]
 [ https://kjream.wordpress.com/2023/11/07/pokedex/ ]
 
-
+.
 
 Desarrollo con fines pedagógicos no comerciales. Inspirado en el animé de Satoshi Tajiri.
 
