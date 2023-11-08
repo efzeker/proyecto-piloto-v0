@@ -24,3 +24,9 @@ Pero quiero participar en GitHub Universe 2023, y creo casi indispensable, tener
 [ https://kjream.wordpress.com/2023/11/07/pokedex/ ]
 [ https://kjream.wordpress.com/2023/11/07/pokedex/ ]
 [ https://kjream.wordpress.com/2023/11/07/pokedex/ ]
+
+
+
+Desarrollo con fines pedagógicos no comerciales. Inspirado en el animé de Satoshi Tajiri.
+Todas las imágenes, nombres y descripciones de los elementos que componen esta aplicación son propiedad de ‘The Pokémon Company International’. 
+No se pretende infringir ningún derecho de autor o marca registrada.”
