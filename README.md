@@ -1,6 +1,6 @@
 # Pokedex
 
-Orgánicamente en el desarrollo de Apps u otro desarrollo web, creo necesario crear código para websites bajo programación Shell. 
+Orgánicamente en el desarrollo de Apps u otro desarrollo web, creo necesario generar, crear y gestionar códigos para websites bajo programación Shell. 
 
 Para ello, decidí que la mejor opción era un Pokedex, personificando el caso de ser representante una organización vendedora de estos dispositivos del Mundo Pokemón.
 
