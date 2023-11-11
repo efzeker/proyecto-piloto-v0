@@ -1,4 +1,4 @@
-#Maqueta Proyecto Pokédex
+# Maqueta Proyecto Pokédex
 
 Orgánicamente en el desarrollo de Apps u otro desarrollo web, creo necesario generar, crear y gestionar códigos para websites bajo la modalidad de programación Shell. 
 
