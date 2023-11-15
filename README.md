@@ -10,20 +10,6 @@ Los Pokedex son útiles para los maestros Pokémon dado que les permite reconoce
 Acá les dejo la dirección de mi website, donde pueden ver in situ, el estado de mi proyecto.
 Cabe mencionar que aun está en proceso de maqueta. I updated it to enhance my GitHub Skills.
 
-
-Les dejo un #bond con una versión webpage essay. También tiene otras secciones que he compartido en otras ocasiones.
-
-[ https://kjream.wordpress.com/2023/11/07/pokedex/ ]
-[ https://kjream.wordpress.com/2023/11/07/pokedex/ ]
-[ https://kjream.wordpress.com/2023/11/07/pokedex/ ]
-[ https://kjream.wordpress.com/2023/11/07/pokedex/ ]
-[ https://kjream.wordpress.com/2023/11/07/pokedex/ ]
-[ https://kjream.wordpress.com/2023/11/07/pokedex/ ]
-[ https://kjream.wordpress.com/2023/11/07/pokedex/ ]
-[ https://kjream.wordpress.com/2023/11/07/pokedex/ ]
-[ https://kjream.wordpress.com/2023/11/07/pokedex/ ]
-[ https://kjream.wordpress.com/2023/11/07/pokedex/ ]
-
 .
 
 Desarrollo con fines pedagógicos no comerciales. Inspirado en el animé de Satoshi Tajiri.
